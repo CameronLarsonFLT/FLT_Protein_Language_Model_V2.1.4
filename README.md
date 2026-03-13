@@ -11,7 +11,7 @@ See Examples Below:
 https://colab.research.google.com/github/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/blob/main/Protein_Language_Model_V2.1.4.ipynb
 )
 
-## Example Designs: Csp3 (Copper Binding Protein), Designed FP from 3 Lineages Dataset, Designed GvpA for Acoustic Reporter
+## Example Designs: Csp3 (Copper Binding Protein), Designed FP from 3 Lineage Datasets, Designed GvpA for Acoustic Reporter
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/Csp3.gif" width="256">
