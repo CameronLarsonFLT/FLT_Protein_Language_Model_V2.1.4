@@ -2,6 +2,9 @@
 
 This project implements a custom protein language model for de novo protein design from curated Pfam- or accession-derived sequence families. The workflow uses a user-defined Pfam ID or protein family input to build a focused training corpus, allowing generation within a specific structural and functional sequence space rather than from a broad mixed database. Sequence output can be tuned during sampling with temperature, where lower values produce more conservative, family-like designs and higher values increase diversity and exploration at the cost of plausibility. The pipeline also supports novelty filtering and regression-based scoring to help identify candidate variants for downstream evaluation. It is designed for rapid, hypothesis-driven protein engineering in Google Colab on CPU or GPU.
 
+See Examples Below:
+In Order: Immunoglobulins, Designed FP of 3 Distinct FP Lineages, and GvpA for Photoacoustic Reporter
+
 ## Open in Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
