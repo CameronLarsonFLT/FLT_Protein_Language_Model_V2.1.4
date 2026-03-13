@@ -8,6 +8,8 @@ This project implements a custom protein language model for de novo protein desi
 https://colab.research.google.com/github/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/blob/main/Protein_Language_Model_V2.1.4.ipynb
 )
 
-<img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/Immunoglobulins.gif" width="420">
-<img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/FP_Designed.gif" width="420" align='right'>
-<img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/GvpA.gif" width="420">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/Immunoglobulins.gif" width="300">
+  <img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/FP_Designed.gif" width="300">
+  <img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/GvpA.gif" width="300">
+</p>
