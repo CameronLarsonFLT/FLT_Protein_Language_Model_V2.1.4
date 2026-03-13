@@ -7,3 +7,5 @@ This project implements a custom protein language model for de novo protein desi
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/blob/main/Protein_Language_Model_V2.1.4.ipynb
 )
+
+https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/
