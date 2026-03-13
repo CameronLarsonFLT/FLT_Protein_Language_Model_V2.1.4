@@ -9,5 +9,5 @@ https://colab.research.google.com/github/CameronLarsonFLT/FLT_Protein_Language_M
 )
 
 <img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/Immunoglobulins.gif" width="420">
-<img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/FP_Designed.gif" width="420">
+<img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/FP_Designed.gif" width="420" align='right'>
 <img src="https://raw.githubusercontent.com/CameronLarsonFLT/FLT_Protein_Language_Model_V2.1.4/main/GvpA.gif" width="420">
